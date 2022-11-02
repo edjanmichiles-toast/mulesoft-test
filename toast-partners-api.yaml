@@ -11,7 +11,7 @@ info:
 schemes:
   - https
 
-host: toast-api-server
+host: http://localhost:53443
 basePath: /partners/v1
 consumes:
   - application/json
