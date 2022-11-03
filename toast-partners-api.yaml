@@ -2,7 +2,7 @@
 swagger: '2.0'
 info:
   version: 1.0.0
-  title: Partners API Sync Test
+  title: Partners API
   description: |
     Returns information about the Toast restaurants that a partner 
     API client can access.
